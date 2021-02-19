@@ -2,7 +2,7 @@
 
 Simple Django REST API project. 
 
-**Project documentation**: `http://localhost:8000/redoc/`
+**Project documentation**: `http://localhost/redoc/`
 
 **How to install:**
 1. Creating Virtual Environment:
