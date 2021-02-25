@@ -14,7 +14,7 @@ Simple Django REST API project.
 4. Start Django server: 
 <br> `$ python manage.py runserver`
 <br>**Requests example:**
-_Getting a Token_: 
+<br>_Getting a Token_: 
 <br>First, you need to send a POST request to 
 `http://localhost/api/v1/token/` 
 then send your username and password in form-data to get token. 
