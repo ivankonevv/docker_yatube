@@ -13,7 +13,7 @@ Simple Django REST API project.
 <br> `$ python manage.py makemigrations` and `$ python manage.py migrate`
 4. Start Django server: 
 <br> `$ python manage.py runserver`
-####**Requests example:**
+**Requests example:**
 _Getting a Token_: 
 <br>First, you need to send a POST request to 
 `http://localhost/api/v1/token/` 
